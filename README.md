@@ -57,8 +57,8 @@ end
 endmodule
 ```
 ```
-Name: Madhumitha R
-Reg No: 212224240082
+Name: Dhanush M
+Reg No: 212223050010
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
